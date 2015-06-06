@@ -1,0 +1,11 @@
+# Site settings
+title: Persuasive Blog
+email: mary@persuasiveblog.com
+description: A blog about content marketing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://persuasiveblog.com" # the base hostname & protocol for your site
+twitter_username: maryefern
+
+# Build settings
+markdown: kramdown
+permalink: /:title
